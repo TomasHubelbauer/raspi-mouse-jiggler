@@ -77,3 +77,13 @@ https://github.com/TomasHubelbauer/arduino-mouse-jiggler
 ## To-Do
 
 ### Figure out a way to solve the macOS issue
+
+### Build adapters from the microUSB port on the Pi Pico to USB A and USB C
+
+- https://www.gme.cz/konektor-usb-az
+- https://www.gme.cz/usb-konektor-micro-usb-b-new
+
+Buy these connectors and find somewhere to buy a USB C one, solder the adapters
+together and use the mouse jiggler by directly connecting it to the computer
+using the adapter instead of using a short cable which makes it flail around and
+be overall ugly.
