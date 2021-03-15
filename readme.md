@@ -47,6 +47,8 @@ while True:
 This code will move the mouse in a diagonal shape, staying around the origin and
 not sliding off.
 
+![](screencast.gif)
+
 ## Raspberry Pi
 
 I'm using a Raspberry Pi Pico:
@@ -75,5 +77,3 @@ https://github.com/TomasHubelbauer/arduino-mouse-jiggler
 ## To-Do
 
 ### Figure out a way to solve the macOS issue
-
-### Add a screen recording and a video of the jiggler in action
