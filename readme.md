@@ -37,7 +37,7 @@ while True:
   time.sleep(0.25)
   mouse.move(x=10, y=-10)
   time.sleep(0.25)
-  mouse.move(x=-10, y=10)
+  mouse.move(x=-10, y=-10)
   time.sleep(0.25)
   mouse.move(x=-10, y=10)
   time.sleep(0.25)
@@ -47,8 +47,8 @@ There seems to be an issue with macOS currently:
 
 https://github.com/adafruit/Adafruit_CircuitPython_HID/issues/59
 
+Everything works as expected on Windows.
+
 ## To-Do
 
 ### Figure out a way to solve the macOS issue
-
-### Verify whether the jiggler works on Windows or not
