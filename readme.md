@@ -78,6 +78,8 @@ https://github.com/TomasHubelbauer/arduino-mouse-jiggler
 
 ### Figure out a way to solve the macOS issue
 
+https://github.com/adafruit/circuitpython/issues/4479
+
 ### Build adapters from the microUSB port on the Pi Pico to USB A and USB C
 
 - https://www.gme.cz/konektor-usb-az
