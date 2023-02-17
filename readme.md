@@ -1,7 +1,6 @@
 # Raspberry Pi Mouse Jiggler
 
-This repository hosts Arduino code for turning an Arduino Leonardo into a mouse
-jiggler.
+This repository hosts Raspi code for turning an Pi Pico into a mouse jiggler.
 
 ## What? Why?
 
