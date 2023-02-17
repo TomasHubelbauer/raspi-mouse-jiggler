@@ -47,6 +47,10 @@ while True:
 This code will move the mouse in a diagonal shape, staying around the origin and
 not sliding off.
 
+To make the on-board LED light up when active, see [#1].
+
+[#1]: https://github.com/TomasHubelbauer/raspi-mouse-jiggler/issues/1
+
 ![](screencast.gif)
 
 ## Raspberry Pi
